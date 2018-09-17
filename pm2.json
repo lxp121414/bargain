@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "leijia_bargain",
+    "script": "production.js",
+    "cwd": "C:\Users\LXP\Desktop\lejia\leijia_bargain",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
